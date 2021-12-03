@@ -1,0 +1,5 @@
+C:\Users\ollie\Documents\SharpDevelop Projects\Cafe Adder - 10\Cafe Adder - 10\bin\Debug\Cafe Adder - 10.exe
+C:\Users\ollie\Documents\SharpDevelop Projects\Cafe Adder - 10\Cafe Adder - 10\bin\Debug\Cafe Adder - 10.pdb
+C:\Users\ollie\Documents\SharpDevelop Projects\Cafe Adder - 10\Cafe Adder - 10\obj\Debug\Cafe Adder - 10.vbprojResolveAssemblyReference.cache
+C:\Users\ollie\Documents\SharpDevelop Projects\Cafe Adder - 10\Cafe Adder - 10\obj\Debug\Cafe Adder - 10.exe
+C:\Users\ollie\Documents\SharpDevelop Projects\Cafe Adder - 10\Cafe Adder - 10\obj\Debug\Cafe Adder - 10.pdb
